@@ -1,0 +1,20 @@
+.container button {
+  height: 60px;
+  width: 60px;
+  border: 1px solid #dcdce6;
+  border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+  background-color: transparent;
+  transition: border-color 0.2s;
+  -webkit-transition: border-color 0.2s;
+  -moz-transition: border-color 0.2s;
+  -ms-transition: border-color 0.2s;
+  -o-transition: border-color 0.2s;
+}
+
+.content button:hover {
+  border-color: #999;
+}
