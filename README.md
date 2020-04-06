@@ -52,3 +52,29 @@
 ```
 > npm install jsonwebtoken
 ```
+
+### Front-end
+* Stack: ReactJS
+
+* Comandos 👨‍💻
+> Criação da pasta.
+```
+> npx create-react-app frontend
+> cd frontend
+```
+> Iniciar o servidor na porta 3000
+```
+> npm start
+```
+> Instalação do pacote de icons no projeto
+```
+> npm install react-icons
+```
+> Instalação do pacote de rotas
+```
+> npm install react-router-dom
+```
+> Instação do axios (Cliente HTTP)
+```
+> npm install axios
+```
